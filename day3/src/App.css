@@ -1,0 +1,24 @@
+.click{
+  width: 250px;
+  height:60px;
+  background-color: magenta;
+  color:white;
+  font-size: 22px;
+  border-radius: 20px;
+  border: none;
+}
+
+.external{
+  color: maroon;
+  font-size: 32px;
+  text-align: center;
+  background-color: bisque;
+}
+.btn{
+  width:200px;
+  font-size: 25px;
+  border: 1px solid blue;
+  border-radius: 20px;
+  background-color: azure;
+  color:rgb(44, 42, 165);
+}
