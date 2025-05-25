@@ -1,0 +1,42 @@
+.title {
+  color: darkblue;
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+.subtitle {
+  color: rgb(133, 19, 19);
+  font-size: 18px;
+}
+
+.user-table {
+  width: 60%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+ 
+}
+
+.user-table th,
+.user-table td {
+  border: 1px solid #ccc;
+  padding: 12px;
+  text-align: left;
+}
+
+.header-cell {
+  background-color: #f4f4f4;
+  font-weight: bold;
+}
+
+.table-row:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.table-row:hover {
+  background-color: #eef;
+}
+.output{
+    margin:0% 10%;
+    padding:3%;
+}
